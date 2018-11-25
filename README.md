@@ -1,0 +1,2 @@
+# journal.kejunfeng.com
+journal
